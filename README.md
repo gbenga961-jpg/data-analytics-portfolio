@@ -27,6 +27,14 @@ A SQL analysis project demonstrating practical querying and analytical problem-s
 
 [View SQL Project](./SQL/Healthcare-SQL-Capstone/README.md)
 
+### Power BI
+
+**AdventureWorks Enterprise Sales Analytics Dashboard**
+
+Developed a three-page interactive Power BI dashboard analysing enterprise sales, product performance, customers, sales channels, and regional operations.
+
+[View Project](Power-BI/AdventureWorks-Sales-Analytics/README.md)
+
 ### Professional Development
 - Business Analysis Internship — Saiket Systems
 - Data Science Internship — AICTE OIB-SIP
