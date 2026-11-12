@@ -40,7 +40,7 @@ This project addresses the following business challenges:
 ## 4. Dashboard Pages & Key Findings
 
 ### Page 1: Executive Sales Overview
-![Executive Sales Overview](Adventuresale 1.png)
+![Executive Sales Overview](Adventuresale%201.png)
 
 Provides an executive-level summary of enterprise sales performance.
 
