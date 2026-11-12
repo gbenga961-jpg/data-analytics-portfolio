@@ -1,16 +1,30 @@
-# Excel Projects
+# Mobile Sales Analysis Dashboard
 
-This folder contains my data analysis projects completed using Microsoft Excel.
+## Project Overview
+This project uses Microsoft Excel to analyse mobile phone sales data and present key business insights through an interactive dashboard.
 
-## Projects
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts and Data Visualisation
+- Data Analysis
 
-More project documentation, Excel workbooks, dashboards and analysis results will be added here.
+## Project Objectives
+- Analyse mobile sales performance.
+- Identify sales trends and patterns.
+- Compare performance across relevant business categories.
+- Present findings through a visual dashboard.
+
+## Dashboard Preview
+
+![Mobile Sales Dashboard](../mobile-sales-dashboard.png)
+
+## Project Deliverable
+The completed Excel workbook contains the analysis and dashboard.
 
 ## Skills Demonstrated
-
-- Data cleaning and preparation
 - Data analysis
-- Pivot Tables
-- Data visualisation
+- Data summarisation
 - Dashboard development
-- Reporting and business insights
+- Data visualisation
+- Business reporting
