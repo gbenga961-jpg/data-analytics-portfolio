@@ -37,7 +37,6 @@ Developed a three-page interactive Power BI dashboard analysing enterprise sales
 
 ### Professional Development
 - Business Analysis Internship — Saiket Systems
-- Data Science Internship — AICTE OIB-SIP
 
 ### Connect With Me
 - **LinkedIn:** https://linkedin.com/in/joshua-gbenga-0748763a8
