@@ -40,7 +40,7 @@ This project addresses the following business challenges:
 ## 4. Dashboard Pages & Key Findings
 
 ### Page 1: Executive Sales Overview
-![Executive Sales Overview](executive-sales-overview.png)
+![Executive Sales Overview](Adventuresale 1.png)
 
 Provides an executive-level summary of enterprise sales performance.
 
@@ -60,7 +60,7 @@ Provides an executive-level summary of enterprise sales performance.
   
 
 ### Page 2: Product & Customer Insights
-![Product & Customer Insights](product-customer-insights.png)
+![Product & Customer Insights](Adventuresale 2.png)
 
 Examines product performance, customer activity, and category-level contributions.
 
@@ -78,7 +78,7 @@ Examines product performance, customer activity, and category-level contribution
 - Interactive Fiscal Year and Product Category slicers.
 
 ### Page 3: Regional & Operations Performance
-![Regional & Operations Performance](regional-operations-performance.png)
+![Regional & Operations Performance](Adventuresale 3.png)
 
 Evaluates geographical performance and sales-channel activity.
 
