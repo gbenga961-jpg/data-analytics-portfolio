@@ -1,19 +1,29 @@
-# SQL Projects
+# Healthcare SQL Server Capstone
 
-This folder contains my SQL data analysis projects, demonstrating my ability to query, explore and analyse structured datasets using SQL Server.
+## Project Overview
+This project demonstrates the use of Microsoft SQL Server to explore, query and analyse healthcare-related data.
 
-## Projects
+## Tools Used
+- Microsoft SQL Server
+- SQL Server Management Studio (SSMS)
+- SQL
 
-More SQL scripts, project documentation and analysis results will be added here.
-
-## Skills Demonstrated
-
-- SQL Server
-- Data extraction and querying
-- Filtering and sorting
-- Joins
-- Aggregate functions and GROUP BY
-- Subqueries and Common Table Expressions (CTEs)
+## Technical Skills Demonstrated
+- SELECT statements
+- WHERE filtering
+- ORDER BY sorting
+- Aggregate functions
+- GROUP BY and HAVING
+- SQL JOINs
+- Subqueries
+- Common Table Expressions (CTEs)
 - Window functions
 - CASE WHEN statements
-- Views and data analysis
+- Views
+
+## Project Deliverables
+- SQL analysis script containing 25 queries.
+- Healthcare data analysis and query results.
+
+## Objective
+To demonstrate practical SQL querying, data exploration and analytical problem-solving skills using a healthcare dataset.
