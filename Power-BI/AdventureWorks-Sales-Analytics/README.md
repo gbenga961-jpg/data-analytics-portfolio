@@ -60,7 +60,7 @@ Provides an executive-level summary of enterprise sales performance.
   
 
 ### Page 2: Product & Customer Insights
-![Product & Customer Insights](Adventuresale 2.png)
+![Product & Customer Insights](Adventuresale%202.png)
 
 Examines product performance, customer activity, and category-level contributions.
 
@@ -78,7 +78,7 @@ Examines product performance, customer activity, and category-level contribution
 - Interactive Fiscal Year and Product Category slicers.
 
 ### Page 3: Regional & Operations Performance
-![Regional & Operations Performance](Adventuresale 3.png)
+![Regional & Operations Performance](Adventuresale%203.png)
 
 Evaluates geographical performance and sales-channel activity.
 
